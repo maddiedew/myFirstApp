@@ -15,6 +15,8 @@ struct ContentView: View {
                 .fontWeight(.bold)
                 .foregroundColor(Color.pink)
         
+            //this is a comment!
+        
             
             Image("RubberDuckyNYC2")
                 .resizable(resizingMode: .stretch)
